@@ -1,0 +1,32 @@
+.cyber-title:hover {
+  box-shadow: 0 0 15px 5px #FAEB92;
+}
+p:hover{
+  box-shadow: 0 0 15px 5px #CC66DA ;
+}
+body{
+background-color:#000000;
+}
+.logo > img{
+position:relative;  
+width: 100px;
+top:75px; 
+}
+.cyber-title{
+ text-align:center;
+  color:#9929EA;
+  font-size:40px;
+  display:inline-block;
+  position:relative;
+  left:550px
+}
+
+p{
+  box-shadow: 0 0 15px 5px #CC66DA -*;
+ color:#CC66DA;
+  position:relative;
+ display:inline-block;
+ font-size:20px;
+ width:600px;
+ left:300px;
+}
